@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @AVGoesPhwoar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AVGoesPhwoar/AVGoesPhwoar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+naem is av
+am a """"""""""coder""""""""""
+i like vido game so thats what i develop for
+wii, u, and vita homebrew are some things i am interested in making, ps3 not so much rlly
